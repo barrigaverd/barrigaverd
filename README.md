@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @barrigaverd
+- 👋 Hi, I’m @tro-barriga
 - 👀 I’m interested in Linguagens.
-- 🌱 I’m currently learning LUA
+- 🌱 I’m currently learning JavaScript and HTML, CSS.
 - 💞️ I’m looking to collaborate on for all
 - 📫 How to reach me for all
 
